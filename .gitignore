@@ -1,0 +1,21 @@
+# Large model artifacts
+ckpt/
+features/
+preds/
+
+# Dataset files
+labels/
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.safetensors
+
+# Runtime and temporary files
+logs/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Environment secrets
+.env

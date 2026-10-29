@@ -1,0 +1,19 @@
+# Core scientific Python
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+Pillow
+tqdm
+
+# Deep learning
+torch
+torchvision
+
+# Notebook environment
+jupyter
+ipykernel
+
+# Optional: Google Colab workflow
+# google-colab
